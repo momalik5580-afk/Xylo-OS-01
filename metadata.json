@@ -1,0 +1,7 @@
+{
+  "name": "Xylo Os_v.2",
+  "description": "Next-Generation AI-Native Hospitality Autonomous Operating System (PMS, ERP, CRM, CMMS, Temporal Workflows, Digital Twin, AI Hotel Brain & Command Center)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
